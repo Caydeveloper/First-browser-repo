@@ -1,2 +1,5 @@
 # First-browser-repo
-getting to know Git
+
+My first resository here with browser
+
+make i see wetin commit be
